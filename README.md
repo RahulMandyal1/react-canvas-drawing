@@ -1,8 +1,5 @@
-# React + Vite
+ ##React Canvas Drawing 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A custom drawing board with the use of canvas 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="730" alt="image" src="https://github.com/RahulMandyal1/react-canvas-drawing/assets/93306066/4da334cf-54ac-41c6-a56c-d34eced7f54c">
